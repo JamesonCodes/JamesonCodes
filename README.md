@@ -1,12 +1,14 @@
 ## Hi, I'm Jameson 😎
 
-**I build AI-enabled internal tools & systems that help teams move faster.**
+I build AI-enabled internal tools & systems that help teams move faster.
 
-Sales Ops by title, Systems Builder by craft. I bridge the gap between operations and engineering—I prototype, automate, and scale solutions that remove friction across marketing, sales, design, and ops.
+Sales Ops by title, Systems Builder by craft. I'm most energized when I can shadow a teammate in their natural workflow, spot the friction they've learned to ignore, and ship a tool that removes it.
+
+> **My Philosophy:** Behavior over talk. Shadow → prototype → validate → scale or kill.
 
 ---
 
-### What I build
+### 🛠️ What I build
 
 - **Internal tools** — search, triage, workflows, and micro-apps that remove bottlenecks
 - **AI-powered workflows** — semantic search, email triage, human-in-the-loop automation
@@ -14,11 +16,9 @@ Sales Ops by title, Systems Builder by craft. I bridge the gap between operation
 
 I'm most energized when I can shadow a teammate in their natural workflow, spot the friction they've learned to ignore, and ship a tool that removes it.
 
-*Behavior over talk. Shadow → prototype → validate → scale or kill.*
-
 ---
 
-### Featured work
+### 🚀 Featured work
 
 | Project | Description |
 |--------|-------------|
@@ -31,8 +31,5 @@ More projects and case studies on my **[portfolio →](https://jamesoncodes.gith
 
 ---
 
-### Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-jamesoncodes.github.io-2E9DFB?style=flat&labelColor=1a1a1a)](https://jamesoncodes.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jameson_Campbell-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jameson-campbell/)  
-[![X](https://img.shields.io/badge/X-@Jameson_C-000?style=flat&logo=x)](https://x.com/Jameson_C)
+### 📫 Connect with Me
+[Portfolio](https://jamesoncodes.github.io) • [LinkedIn](https://www.linkedin.com/in/jameson-campbell/) • [X (Twitter)](https://x.com/Jameson_C)
