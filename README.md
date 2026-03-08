@@ -14,8 +14,6 @@ Sales Ops by title, Systems Builder by craft. I'm most energized when I can shad
 - **AI-powered workflows** — semantic search, email triage, human-in-the-loop automation
 - **Integrations** — Front, HubSpot, n8n, and modern APIs
 
-I'm most energized when I can shadow a teammate in their natural workflow, spot the friction they've learned to ignore, and ship a tool that removes it.
-
 ---
 
 ### 🚀 Featured work
