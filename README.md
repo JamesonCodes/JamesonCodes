@@ -10,9 +10,9 @@ Sales Ops by title, Systems Builder by craft. I'm most energized when I can shad
 
 ### 🛠️ What I build
 
-- **Internal tools** — search, triage, workflows, and micro-apps that remove bottlenecks
-- **AI-powered workflows** — semantic search, email triage, human-in-the-loop automation
-- **Integrations** — Front, HubSpot, n8n, and modern APIs
+- **Internal tools** - micro-apps that remove operational bottlenecks
+- **AI-powered workflows** - semantic search, email triage, and human-in-the-loop automation
+- **Integrations** - Front, HubSpot, n8n, and modern APIs connected into useful tools
 
 ---
 
