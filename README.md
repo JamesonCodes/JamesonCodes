@@ -25,7 +25,7 @@ I'm most energized when I can shadow a teammate in their natural workflow, spot 
 | [**Sock Scout**](https://jamesoncodes.github.io/#featured-project) | Semantic visual search for 100k+ creative assets. Next.js, FastAPI, Vertex AI, Pinecone, AWS. |
 | [**AI Ensemble Chat**](https://github.com/JamesonCodes/ai-ensemble-chat) | Multi-model chat with Quad-mode streaming and winner-selection routing. Vercel AI SDK, Postgres, Drizzle. |
 | [**Sample Hub**](https://jamesoncodes.github.io/#projects) | Front plugin for sample requests: AI pre-fills, human-in-the-loop, HubSpot sync. |
-| [**SimuPanel**](https://github.com/JamesonCodes/SimuPanel) | Marketing site for an AI customer-simulation platform. Next.js, Tailwind, Framer Motion. |
+| [**AI Share Button Generator**](https://github.com/JamesonCodes/ai-share-button-generator) | Generate embeddable AI share buttons for ChatGPT, Perplexity, and Google AI with custom prompts. |
 
 More projects and case studies on my **[portfolio →](https://jamesoncodes.github.io)**
 
