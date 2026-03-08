@@ -1,4 +1,4 @@
-## Hi, I'm Jameson 😎
+## 👋 Hi, I'm Jameson
 
 I build AI-enabled internal tools & systems that help teams move faster.
 
