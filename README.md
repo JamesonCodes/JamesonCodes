@@ -22,17 +22,12 @@ Sales Ops by background, systems builder by craft. I’m most energized when I c
 
 ### 🚀 Selected work
 
-#### 🔎 [Sock Scout](https://github.com/JamesonCodes/project-showcase/tree/main/projects/sock-scout)
-Semantic text and image search across **100k+ creative assets**, used daily by design and sales teams.
-
-#### 📬 [Portal+ Assist](https://github.com/JamesonCodes/project-showcase/tree/main/projects/portal-plus-assist)
-A production Front sidebar for customer project lookup and design requests, with **AI-drafted briefs reviewed before submission**.
-
-#### 📊 [Sales Capacity Planner](https://github.com/JamesonCodes/project-showcase/tree/main/projects/sales-capacity-planner)
-An internal reporting tool combining work counts, email classification, and time studies to **estimate account workload and team capacity**.
-
-#### 🔄 [Reflow](https://github.com/JamesonCodes/reflow)
-A browser workflow discovery **prototype** that uses observed activity to identify recurring tasks and processes for analyst review.
+| Project | What it does |
+| --- | --- |
+| 🔎 [**Sock Scout**](https://github.com/JamesonCodes/project-showcase/tree/main/projects/sock-scout) | Semantic text and image search across **100k+ creative assets**, used daily by design and sales teams. |
+| 📬 [**Portal+ Assist**](https://github.com/JamesonCodes/project-showcase/tree/main/projects/portal-plus-assist) | A production Front sidebar for project lookup and design requests, with **AI-drafted briefs reviewed before submission**. |
+| 📊 [**Sales Capacity Planner**](https://github.com/JamesonCodes/project-showcase/tree/main/projects/sales-capacity-planner) | An internal reporting tool that combines work counts, email classification, and time studies to **estimate workload and team capacity**. |
+| 🔄 [**Reflow**](https://github.com/JamesonCodes/reflow) | A browser workflow discovery **prototype** that identifies recurring tasks and processes from observed activity for analyst review. |
 
 ---
 
