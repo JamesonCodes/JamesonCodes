@@ -33,9 +33,9 @@ Sales Ops by background, systems builder by craft. I’m most energized when I c
 
 ### 🌱 What I’m exploring
 
-I’m building an [**AI Native Email System**](https://github.com/JamesonCodes/project-showcase/tree/main/projects/ai-native-email-system), exploring shared context, job-based workflows, and evidence-based limits on automation.
+- [**AI Native Email System**](https://github.com/JamesonCodes/project-showcase/tree/main/projects/ai-native-email-system): Building shared context and job-based inbox workflows, with human review and evidence guiding what to automate.
 
-My [**AI Ensemble Chat**](https://github.com/JamesonCodes/ai-ensemble-chat) project explores multi-model comparison and streaming, building on Vercel’s chatbot template.
+- [**Repository-driven AI workflows**](https://github.com/JamesonCodes/project-showcase/blob/main/docs/repository-driven-ai-workflows.md): Exploring how saved context, reusable instructions, and feedback can make AI-assisted GTM work easier to repeat and improve.
 
 ---
 
