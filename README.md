@@ -16,7 +16,7 @@ Sales Ops by background, systems builder by craft. I’m most energized when I c
 
 - **Internal tools:** Search, intake flows, and small apps that remove operational bottlenecks.
 - **AI-assisted workflows:** Email classification, structured drafts, and automation with human review.
-- **Connected systems:** Integrations that bring customer context and actions into the tools teams already use.
+- **Plugins and integrations:** Extensions that give AI assistants new capabilities and connect teams’ existing tools, data, and workflows.
 
 ---
 
